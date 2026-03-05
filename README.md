@@ -14,7 +14,7 @@
 
 ---
 
-## Como executar
+## 🆙 Como executar
 Para compilar e rodar os exercícios, é necessário ter o **GCC** (ou outro compilador C) instalado em sua máquina.
 
 ### 1️⃣ Passo: compilação
